@@ -154,3 +154,4 @@ Questions could have a negation in the consequence:
 This can all be modeled with the current implementation, but it would need many more facts and rules and you would be polluting your knowledge base with basic human inference knowledge.
 	
 	
+# ktp
